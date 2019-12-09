@@ -84,7 +84,7 @@ private:
 
         }
 
-        ~BTree();
+        ~BTree(); // Faltó destructor
 };
 
 

@@ -118,6 +118,7 @@ public:
 
     void removeFromNonLeaf(int i)
     {
+        // Falta el merge y dar delete
 
         int k = keys[i];
 
